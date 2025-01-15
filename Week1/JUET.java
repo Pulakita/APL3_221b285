@@ -8,12 +8,12 @@ class GetSet {
 	}
 }
 
-class GFG {
+class JUET {
 
 	public static void main(String[] args)
 	{
 		GetSet obj = new GetSet();
-		obj.setName("Geeks for Geeks");
+		obj.setName("Student");
 		System.out.println(obj.getName());
 	}
 }
